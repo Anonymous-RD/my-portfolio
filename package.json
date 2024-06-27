@@ -1,7 +1,7 @@
 {
-  "name": "react-frontend-dev-portfolio",
+  "name": "rohit",
   "homepage": "https://github.com/Anonymous-RD/my-portfolio",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
