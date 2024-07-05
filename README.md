@@ -69,6 +69,14 @@ If you have any suggestions on what to improve in <em>react-frontend-dev-portfol
 <h3>:gear: Credits(Source Code)</h3>
 This project is complete rewrite of [Dorota1997/react-frontend-dev-portfolio](https://github.com/Dorota1997/react-frontend-dev-portfolio)
 
+
+
 <h3>:camera: Credits(images)</h3>
 
 <a href="https://pixabay.com/photos/people-woman-girl-clothing-eye-2563491/">p1</a>, <a href="https://pixabay.com/photos/dog-puppy-sharpei-petit-animal-1865712/">p2</a>, <a href="https://pixabay.com/photos/night-camera-photographer-photo-1927265/">p3</a>, <a href="https://pixabay.com/photos/road-forest-season-autumn-fall-1072823/">p4</a>, <a href="https://pixabay.com/photos/neuschwanstein-castle-bavaria-701732/">p5</a>, <a href="https://pixabay.com/photos/hohenschwangau-alps-alpsee-bavaria-532864/">p6</a> -->
+
+
+
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c3be97c-1b21-4f46-ade2-7c2b240093fc/deploy-status)](https://app.netlify.com/sites/zenxrohit/deploys)
