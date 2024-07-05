@@ -1,4 +1,4 @@
-<!-- <img width="80%" align="center" src="https://github.com/devmahmud/react-frontend-dev-portfolio/blob/main/demo/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
+ <img width="80%" align="center" src="https://github.com/devmahmud/react-frontend-dev-portfolio/blob/main/demo/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
 <img height="350px" align="right" src="https://github.com/devmahmud/react-frontend-dev-portfolio/blob/main/demo/mobile-demo.gif" alt="portfolio mobile demo gif"/>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
@@ -73,10 +73,9 @@ This project is complete rewrite of [Dorota1997/react-frontend-dev-portfolio](ht
 
 <h3>:camera: Credits(images)</h3>
 
-<a href="https://pixabay.com/photos/people-woman-girl-clothing-eye-2563491/">p1</a>, <a href="https://pixabay.com/photos/dog-puppy-sharpei-petit-animal-1865712/">p2</a>, <a href="https://pixabay.com/photos/night-camera-photographer-photo-1927265/">p3</a>, <a href="https://pixabay.com/photos/road-forest-season-autumn-fall-1072823/">p4</a>, <a href="https://pixabay.com/photos/neuschwanstein-castle-bavaria-701732/">p5</a>, <a href="https://pixabay.com/photos/hohenschwangau-alps-alpsee-bavaria-532864/">p6</a> -->
+<a href="https://pixabay.com/photos/people-woman-girl-clothing-eye-2563491/">p1</a>, <a href="https://pixabay.com/photos/dog-puppy-sharpei-petit-animal-1865712/">p2</a>, <a href="https://pixabay.com/photos/night-camera-photographer-photo-1927265/">p3</a>, <a href="https://pixabay.com/photos/road-forest-season-autumn-fall-1072823/">p4</a>, <a href="https://pixabay.com/photos/neuschwanstein-castle-bavaria-701732/">p5</a>, <a href="https://pixabay.com/photos/hohenschwangau-alps-alpsee-bavaria-532864/">p6</a> 
 
 
 
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1c3be97c-1b21-4f46-ade2-7c2b240093fc/deploy-status)](https://app.netlify.com/sites/zenxrohit/deploys)
